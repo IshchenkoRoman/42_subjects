@@ -1,0 +1,86 @@
+Response template for Binary & Number Systems
+Modified from Code.org APCSP, Unit 1
+
+[We are skipping lessons 1 & 2]
+
+I. Lesson 3 - Reading the Bit Rate
+
+* Your Prototocol: List the steps and rules of your protocol here.
+
+* Performance - what bit rate were you able to achieve?
+Bits Transmitted:
+Time in Seconds:
+Bit Rate: __ bits/sec
+
+* Reflection quiz:
+1:
+2:
+3:
+4:
+
+
+II. Lesson 5 - Binary Practice
+
+* All 4-bit numbers: (use tab to create a table)
+0000	0
+0001	1
+0010	2
+...
+
+* 8-bit numbers with exactly one 1:
+0000 0001	1
+0000 0010	2
+0000 0100	
+0000 1000	
+0001 0000	
+0010 0000	
+0100 0000	
+1000 0000	
+
+* Conversion Practice!
+Binary to decimal
+100
+101
+1101
+0001 1111
+0010 0000
+1010 1010
+1111 1111
+
+Decimal to binary
+5
+17
+63
+64
+127
+256
+513
+
+Show your work: explain the math you can use to convert from binary to decimal. Use for an example: 10101010.
+
+Show your work: Can you explain the math needed to convert from decimal to binary? Use 79 as an example.
+
+* Reflection Quiz:
+1:
+2:
+3:
+
+III. Hexadecimal Interlude
+
+Show your work: How would you convert from hexadecimal to decimal? Typing out the small math problems you use to get there is a good way of showing it.
+
+How can you convert back from decimal to hex? 
+
+
+IV. Lesson 6 - Sending numbers
+
+Explain the steps of your protocol. 
+
+How does the recipient know when one number ends and the other begins?
+
+Do you need to modify the protocol when using a larger grid?
+
+
+V. Lesson 7
+
+Not graded :)
